@@ -1,0 +1,12 @@
+this is my windows commit;
+git config --global user.name "shivsagarprajapati"
+git config --global user.email shivsagarpr7@gmail.com
+git config --global --list
+
+git config user.name "shivsagarprajapati"
+git config user.email "shivsagarpr7@gmail.com"
+git config --list --show-origin
+git init
+git commit -m "Your commit message"
+git branch -M main
+git config --list --show-origin
